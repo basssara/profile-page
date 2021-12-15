@@ -19,13 +19,13 @@ export default function Home() {
       <h1 className={styles.textName}>Boburbek Kosimov</h1>
       <p className={styles.text}>
         My name is Boburbek.
-        I'm from Tashkent, Uzbekistan.
+        I am from Tashkent, Uzbekistan.
         I was born in 29.03.1998.
         I studied in Tashkent Professional College of Information Technologies
         since 2014 until 2017 and after thad i decided to study continiue my
         study and entered to Transport and Telecommincation instittute and studied
-        there from 2017 to 2021. Recently I'm back to Tashkent.
-        I work in State Unitary Enterprise "Unicon.uz" as QA Engeneer
+        there from 2017 to 2021. Recently I am back to Tashkent.
+        I work in State Unitary Enterprise Unicon.uz as QA Engeneer
       </p>
       <Link href={'cv'}><a className={styles.link}>More Information</a></Link>
     </Layout>
