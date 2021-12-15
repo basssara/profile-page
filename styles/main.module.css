@@ -1,0 +1,32 @@
+.borderCircle {
+    border-radius: 9999px;
+}
+
+.centerPic {
+    text-align: center;
+}
+
+.textName {
+    text-align: center;
+    margin-top: 10px
+}
+
+.text {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 5px;
+    font-weight: 500;
+}
+
+.link {
+    color: navy;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+.link:hover {
+    color: paleturquoise;
+}
